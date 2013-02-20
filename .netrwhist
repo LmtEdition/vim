@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/home/stanx/Desktop/play'
+let g:netrw_dirhist_2='/home/stanx/.mozilla'
+let g:netrw_dirhist_3='/home/stanx/lab1-Skeleton/test-p-bad.sh-17238.tmp'
+let g:netrw_dirhist_4='/home/stanx/.vim'
+let g:netrw_dirhist_5='/home/stanx/laughing-octo-archer/lab1/test-ok.sh-6480.tmp'
